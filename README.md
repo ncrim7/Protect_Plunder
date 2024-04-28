@@ -29,6 +29,7 @@ Oyun 4 farklı sahne içeriyor. Giriş ekranı, oynanış ekranı, ganimetleri b
 * Chrome ve Firefox platformları için destek
 
 ## 🚨 Nasıl oynanır && Kurulum 
+➤ Oynanış Videosu : [`Protect Plunder`](https://youtu.be/ljj6xoaFZMc)
 ```sh
 git clone https://github.com/bomb1338/Protect_Plunder.git
 cd Protect_Plunder
