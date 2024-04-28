@@ -13,7 +13,7 @@ Büyücü Zordan, elindeki büyü gücüyle yarasalara karşı mücadele ederken
 ## 📸 Oyun Ekranları && Oyun Ekran Görüntüleri
 Oyun sahnesi olarak 3 çeşitler sahne içeriyor. Ana oyunun oynalındığı ekran, koronaları başarılı bir şekilde imha edildiğinde bizi karşılayacak ekran, ve son olarak basarisiz olunduğunda bizi karsilicak ekran olmak üzere oyun sahnelerini içeriyor. Projenin giriş ekranından ulaşabilceğimiz oyunun nasıl oynancagini ve projenin detaylarını anlatılan bilgiler yer alıyor.  
 
-<img src="https://github.com/bomb1338/Protect_Plunder/blob/main/Protect_Plunder/ss/giris.PNG width="400px" height="auto">. 
+<img src="https://github.com/bomb1338/Protect_Plunder/blob/main/Protect_Plunder/ss/giris.PNG" width="400px" height="auto">. 
 <img src="https://github.com/bomb1338/Protect_Plunder/blob/c6547b4ba0631bcbf4b61735d2210ce556d16058/Protect_Plunder/ss/oynanis.png" width="400px" height="auto">. 
 <img src="https://github.com/bomb1338/Protect_Plunder/blob/c6547b4ba0631bcbf4b61735d2210ce556d16058/Protect_Plunder/ss/win.png" width="400px" height="auto">. 
 <img src="https://github.com/bomb1338/Protect_Plunder/blob/c6547b4ba0631bcbf4b61735d2210ce556d16058/Protect_Plunder/ss/defeat.png" width="400px" height="auto">. 
