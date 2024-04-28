@@ -11,7 +11,7 @@ Krallığın derin mağaralarında, Ebedi Kristal'in bulunduğu karanlık ve teh
 Büyücü Zordan, elindeki büyü gücüyle yarasalara karşı mücadele ederken, Ebedi Kristal'in ışığı, mağaranın içini aydınlatır. Büyücü, halkının güvenliği için son nefesine kadar kristali korumak için hazırdır. Yaratıkların saldırılarına karşı dikkatli olmalı ve büyü güçlerini doğru zamanda kullanmalıdır. Halkının kaderi, Büyücü Zordan'ın cesareti ve becerilerine bağlıdır.
 
 ## 📸 Oyun Ekranları && Oyun Ekran Görüntüleri
-Oyun 4 farklı sahne içeriyor. Giriş ekranı, oynanış ekranı, ganimetleri başarılı bir şekilde kurtarmayı başardığımız zaman gelecek kazanma ekranı ve başarısızlıkla sonuçlanan mağlubiyet ekranı. Projenin giriş ekranında oyunun nasıl oynancagini ve detaylarını anlatılan bilgiler yer alıyor.  
+Oyun 4 farklı sahne içeriyor. Giriş ekranı, oynanış ekranı, ganimetleri başarılı bir şekilde kurtarmayı başardığımız zaman gelecek kazanma ekranı ve başarısızlıkla sonuçlanan mağlubiyet ekranı. Projenin giriş ekranında oyunun nasıl oynanacağını ve detaylarını anlatılan bilgiler yer alıyor.  
 
 <img src="https://github.com/bomb1338/Protect_Plunder/blob/main/Protect_Plunder/ss/giris.PNG" width="400px" height="auto">. 
 <img src="https://github.com/bomb1338/Protect_Plunder/blob/c6547b4ba0631bcbf4b61735d2210ce556d16058/Protect_Plunder/ss/oynanis.png" width="400px" height="auto">. 
