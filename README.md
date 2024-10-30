@@ -31,11 +31,11 @@ Oyun 4 farklı sahne içeriyor. Giriş ekranı, oynanış ekranı, ganimetleri b
 ## 🚨 Nasıl oynanır && Kurulum 
 ➤ Oynanış Videosu : [`Protect Plunder`](https://youtu.be/ljj6xoaFZMc)
 ```sh
-git clone https://github.com/bomb1338/Protect_Plunder.git
+git clone https://github.com/ncrim7/Protect_Plunder.git
 cd Protect_Plunder
 open index.html
 ```
 ➤ Doğrudan oynayabilirsin : [`Protect Plunder`](https://protectplunder.000webhostapp.com/)
 
 ## 🔍️ İletişim
-[@bomb1338](https://github.com/bomb1338) tarafından oluşturulmuştur - benimle iletişime geçebilirsin!
+[@ncrim7](https://github.com/ncrim7) tarafından oluşturulmuştur - benimle iletişime geçebilirsin!
